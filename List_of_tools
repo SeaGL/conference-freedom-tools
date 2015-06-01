@@ -1,0 +1,36 @@
+SeaGL Conference Tools
+
+Blogging, the website is in Git
+Pros: Already set up, works, looks nice
+Cons: Hard for non-technical folks to add content to
+
+Speaker Proposals, we used LimeSurvey
+Pros: Web service requiring very littleset-up
+Cons: Information we got form it wasn't well-organized for our selection process
+
+Speaker selection, we exported to Calc and then to Google Docs
+Pros: some free tools, easy to access
+Cons: not easy to use, Google docs has too much frame and needs a robust internet connection
+
+Schedule building, Deb put all talks into color-coded boxes on a Google Diagram and then typed schedule back into Calc
+Pros: It worked. 
+Cons: Retyping all chosen talks twice is labor-intensive and sort of dumb. 
+
+Schedule display, Lanyrd and conference handout
+Pros: People had two options for the schedule, online and off
+Cons: Lanyrd isn't part of our website (http://lanyrd.com/2014/seagl/schedule/) and isn't actually very intuitive to navigate
+
+Sign-ins, Lanyrd in advance and a gedit doc onsite
+Pros: We did capture some emails to contact people for the following year
+Cons: We only got names and emails, no other info. 
+
+Emailing internally, google group
+Pros: It works and keeps an archive
+Cons: Google
+
+Task tracking, honor system and email threads
+Pros: stuff got done
+Cons: it could be easier to see who's doing what, which would make it easier to hand things off when they stagnate
+
+
+

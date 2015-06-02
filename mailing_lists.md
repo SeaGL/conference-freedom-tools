@@ -19,6 +19,15 @@ Until 2015, SeaGl has been using Google Groups for its mailing lists.
 
 ## Free Solutions
 
+### Mailman
+
 Mailman 3 just came out, and provides all the features we need. However, it does
 not have a free hosted solution, so it would need to be maintained and supported 
 by a donation or volunteer. 
+
+### Discourse
+
+[Discourse](https://github.com/discourse/discourse) is novel and powerful FLOSS
+providing mailing lists and forums. Adam [has been using
+Discourse](https://forums.meteor.com/) for a few months now and highly
+recommends it.

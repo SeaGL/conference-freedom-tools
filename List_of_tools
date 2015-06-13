@@ -19,6 +19,8 @@ Cons: Retyping all chosen talks twice is labor-intensive and sort of dumb.
 Schedule display, Lanyrd and conference handout
 Pros: People had two options for the schedule, online and off
 Cons: Lanyrd isn't part of our website (http://lanyrd.com/2014/seagl/schedule/) and isn't actually very intuitive to navigate
+Alternatives (under evaluation): OSEM (https://github.com/openSUSE/osem)
+Alternatives (unresearched): Zookeepr (http://zookeepr.org/), wafer (https://github.com/CTPUG/wafer)
 
 Sign-ins, Lanyrd in advance and a gedit doc on-site
 Pros: We did capture some emails to contact people for the following year
@@ -31,3 +33,8 @@ Cons: Google
 Task tracking, honor system and email threads
 Pros: stuff got done
 Cons: it could be easier to see who's doing what, which would make it easier to hand things off when they stagnate
+
+Source code hosting on GitHub
+Pros: works, used/known by many, easy seagl.org hosting on GitLab Pages
+Cons: not FLOSS
+Alternatives: GitLab

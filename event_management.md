@@ -27,3 +27,8 @@ is a project developed in Ruby by OpenSUSE, started in 2013.
 
 [Cod](http://usecod.io/) is an event manager built on Drupal 7. [LinuxFest
 Northwest](http://linuxfestnorthwest.org/2015) uses Cod.
+
+### Pentabarf
+
+[Pentabarf](http://pentabarf.org/Pentabarf) is a Ruby, formerly PHP, tool
+originally developed for CCC.

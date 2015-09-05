@@ -26,3 +26,9 @@ Some things to think about when describing your experience with a tool:
 * Was the documentation helpful?
 * Was the community healthy and active?
 * How did it integrate with the other tools you used?
+
+## Similar Work:
+
+[EuroPython](https://wiki.python.org/moin/EuroPython/SoftwareRequirements) and
+[PyCon](https://wiki.python.org/moin/PyConPlanning/SoftwareRequirements) both
+have wiki pages from their own tool searches. 

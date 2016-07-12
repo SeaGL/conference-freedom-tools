@@ -2,7 +2,7 @@
 
 There needs to be a central location where speakers submit talk proposals and
 organizers select which proposals are chosen. The selected proposals need to
-be processed into a schedule. 
+be processed into a schedule.
 
 ## Features
 
@@ -32,3 +32,24 @@ Northwest](http://linuxfestnorthwest.org/2015) uses Cod.
 
 [Pentabarf](http://pentabarf.org/Pentabarf) is a Ruby, formerly PHP, tool
 originally developed for CCC.
+
+### Conflab
+
+[Conflab](https://github.com/rh-lab-q/conflab) aims to be full featured solution
+for conference management. Written on Python.
+
+### Calagator
+
+[Calagator](https://github.com/calagator/calagator) is an open source community calendaring platform.
+Written on Ruby.
+
+### Indico
+
+[Indico](http://indico-software.org/) is an open source tool for event
+organization, archival and collaboration.
+
+### Symposion
+
+[Symposion](https://github.com/pinax/symposion) is a conference management
+solution from Eldarion. It was built with the generous support of the Python
+Software Foundation.

@@ -13,7 +13,7 @@ be processed into a schedule.
 
 ## Current Solution
 
-Until 2015, SeaGl used a giant spreadsheet and made the schedule by hand.
+Until 2015, SeaGL used a giant spreadsheet and made the schedule by hand.
 
 ## Free Solutions
 
@@ -30,7 +30,7 @@ Northwest](http://linuxfestnorthwest.org/2015) uses Cod.
 
 ### Pentabarf
 
-[Pentabarf](http://pentabarf.org/Pentabarf) is a Ruby, formerly PHP, tool
+[Pentabarf](https://github.com/nevs/pentabarf) is a Ruby, formerly PHP, tool
 originally developed for CCC.
 
 ### Conflab

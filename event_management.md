@@ -25,8 +25,8 @@ is a project developed in Ruby by OpenSUSE, started in 2013.
 
 ### Cod
 
-[Cod](http://usecod.io/) is an event manager built on Drupal 7. [LinuxFest
-Northwest](http://linuxfestnorthwest.org/2015) uses Cod.
+[Cod](http://usecod.com/) is an event manager built on Drupal 7. [LinuxFest
+Northwest](http://linuxfestnorthwest.org/2015) used to use Cod. Now they use OSEM.
 
 ### Pentabarf
 

@@ -53,3 +53,7 @@ organization, archival and collaboration.
 [Symposion](https://github.com/pinax/symposion) is a conference management
 solution from Eldarion. It was built with the generous support of the Python
 Software Foundation.
+
+### pretalx
+
+[pretalx](https://pretalx.com)
